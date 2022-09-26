@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2u9DZe3OWgPpgKnnKvoWMPD5owezAKPxH5/venpY0bl/uE1/dTcNSEaIbpd70016sdq4KWAtd450b81HrCvGMQ==",
+  "success": true,
+  "projectFilePath": "/home/prudentia/GitRepos/JewelCollector/projeto-final/projeto-final.csproj",
+  "expectedPackageFiles": [
+    "/home/prudentia/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
